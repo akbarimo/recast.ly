@@ -1,4 +1,5 @@
 .eslint*
+**/data
 **/node_modules
 **/bower_components
 **/vendor
